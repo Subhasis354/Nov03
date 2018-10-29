@@ -1,2 +1,3 @@
 We are creating new file first.txt
-
+hi
+there
